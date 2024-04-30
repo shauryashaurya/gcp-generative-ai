@@ -1,8 +1,8 @@
 # SQL Talk: Natural Language to BigQuery with Gemini's Function Calling
 
-| | |
-|-|-|
-|Author(s) | [Kristopher Overholt](https://github.com/koverholt) |
+|           |                                                     |
+| --------- | --------------------------------------------------- |
+| Author(s) | [Kristopher Overholt](https://github.com/koverholt) |
 
 ## Overview
 
@@ -20,6 +20,8 @@ description and the arguments to call it with.
 Try using the demo app now! [https://sql-talk-r5gdynozbq-uc.a.run.app/](https://sql-talk-r5gdynozbq-uc.a.run.app/)
 
 ![SQL Talk Demo App](sql-talk.png)
+
+[![AI Data Agent with Gemini API | Build with Google AI](https://img.youtube.com/vi/pj5mRDy9lG8/0.jpg)](https://www.youtube.com/watch?v=pj5mRDy9lG8)
 
 ## Prerequisites
 
